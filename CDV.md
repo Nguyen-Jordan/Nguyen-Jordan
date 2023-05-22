@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan Nguyen</h1>
 <h3 align="center">Full-Stack Web developer</h3>
 
-<img src="./profil-circle.jpg" align="center">
+<img  align="center" src="./profil-circle.jpg">
 
 - 🔭 I’m currently studing on **software development**
 
